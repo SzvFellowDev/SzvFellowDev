@@ -1,4 +1,4 @@
-# 👋 Hi! I am Szv and here are informations about me:
+# 👋 Hi! I am SzV and here are informations about me:
 
 > I'm currently learning C# & Unity
 
