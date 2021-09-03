@@ -2,7 +2,7 @@
 
 > I'm currently learning C# & Unity
 
-> I know HTML, CSS, a bit C++, C#, SQL
+> I know HTML, CSS, a bit C++, C#, MSSQL, basic Git
 
 > My discord: SzalińskieLo#4629
 
