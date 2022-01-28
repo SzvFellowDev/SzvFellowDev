@@ -1,8 +1,8 @@
 # 👋 Hi! I am SzV and here are informations about me:
 
-> I'm currently learning C# & Unity
+> I'm currently learning C# & Unity (at this moment I have a bit break from it)
 
-> I know HTML, CSS, a bit C++, C#, MSSQL, basic Git
+> I was in contact with HTML, CSS, PHP, C++, C#, MSSQL, basic Git
 
 > My discord: SzalińskieLo#4629
 
