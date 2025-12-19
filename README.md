@@ -6,8 +6,6 @@
 
 > My discord: SzalińskieLo#4629
 
-> My discord server for programming: [click](https://discord.gg/DyUztQBECF)
-
 > I like pizza, games and programming
 
 
